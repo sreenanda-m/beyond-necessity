@@ -2,98 +2,118 @@
 
 
 
-# [Project Name] 🎯
+# [OOPS!KEY] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [BEYOND NECESSITY]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sreenanda M] - [Sahrdaya College of Engineering,Kodakara]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[OOPSKEY is a mysterious little Windows application that quietly turns your perfectly normal keyboard against you. Keys start doing the wrong things, and one innocent press can make your computer appear to shut down for a full minute.
+And when you finally realize nothing was wrong… you still have to figure out which key did it.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Computers have become too predictable.
+
+You press a key.
+You know exactly what will happen.
+You press it again.
+The same thing happens.
+This is clearly unacceptable.
+We identified a serious issue:
+«The keyboard does exactly what you tell it to do.»
+
+Nobody complained]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[A system-wide keyboard where familiar keys have quietly changed their jobs.
+
+Enter isn't necessarily Enter anymore.
+Tab has other plans.
+The arrow keys may disagree with your intentions.
+
+And then there's Caps Lock.
+
+Press it...
+
+Black screen.
+Spinner.
+“Shutting down…”
+
+You wait.
+
+60 seconds.
+
+Then everything comes back like nothing happened.
+
+Because nothing did.
+
+Your computer was perfectly fine.
+
+We just gave you a problem and made you wait for the solution.
+
+Nobody asked for it.
+Nobody needed it.
+
+But unfortunately, we built it. ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Python]
+- [Tkinter]
+- [keyboard
+- ctypes]
+- [Visual Code
+- Github
+- PyInstaller
+- ChatGPT
+- Claude]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[git clone <repository-url>
+cd OOPSKEY
+pip install -r requirements.txt]
 
 # Run
-[commands]
+[python main.py]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="555" height="377" alt="oopskey control panel" src="https://github.com/user-attachments/assets/7afd4480-2e02-4fee-ae1b-9e150d6c4a96" />
+(OOPSKEY control Panel)
+*Shows the main control panel with Cursed Mode, system-wide keyboard status, fake shutdown duration, and keyboard restoration controls*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1536" height="1024" alt="oopskey keyboard mapping" src="https://github.com/user-attachments/assets/be0c9b1a-656c-4f23-acec-873fc736b6fc" />
+(Cursed Keyboard Mappings)
+*Shows the fixed key mappings that make familiar keyboard keys perform unexpected functions.*
+<img width="1600" height="1000" alt="oopskey fake shutdown" src="https://github.com/user-attachments/assets/7cb1d473-4282-490f-af9b-aa222fa1c465" />
+(Fake Shutdown Screen)
+*Shows the fullscreen shutdown simulation triggered by Caps Lock, featuring the black screen, loading spinner, and “Shutting down” message*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1536" height="1024" alt="oopskey workflow diagram" src="https://github.com/user-attachments/assets/0970fee0-31f8-4e5c-bac8-32d06dfa380b" />
+*From system-wide key interception and remapping to the Caps Lock-triggered fake shutdown and automatic recovery*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1xPb8htFAXBDKBF20Bn9J-lmeNBJFYOeG?usp=sharing
+*A brief walkthrough showcasing OOPSKEY’s system-wide keyboard behaviour, unexpected key interactions, and overall user experience.*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
----
+
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
